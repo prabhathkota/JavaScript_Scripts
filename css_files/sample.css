@@ -1,0 +1,7 @@
+hr {color:red;}
+p {margin-left:20px;
+  text-transform:lowercase; 
+}
+body {background-image:url("../images/test.jpg");
+  color:red;
+}
